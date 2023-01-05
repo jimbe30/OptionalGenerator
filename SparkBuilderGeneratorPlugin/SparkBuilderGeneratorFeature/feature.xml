@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="com.helospark.SparkBuilderGeneratorFeature"
-      label="SparkBuilderGeneratorFeature"
+      id="com.helospark.BuilderGeneratorFeature"
+      label="BuilderGeneratorFeature"
       version="0.0.26.qualifier">
 
    <description url="ftp://helospark.com/SparkBuilderGeneratorPlugin/">
@@ -117,7 +117,7 @@ SOFTWARE.
    </requires>
 
    <plugin
-         id="com.helospark.SparkBuilderGenerator"
+         id="com.helospark.BuilderGenerator"
          download-size="0"
          install-size="0"
          version="0.0.0"

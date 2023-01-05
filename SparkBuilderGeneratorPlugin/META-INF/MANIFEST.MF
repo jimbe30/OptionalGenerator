@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: SparkBuilderGenerator
-Bundle-SymbolicName: com.helospark.SparkBuilderGenerator;singleton:=true
+Bundle-Name: BuilderGenerator
+Bundle-SymbolicName: com.helospark.BuilderGenerator;singleton:=true
 Bundle-Version: 0.0.26.qualifier
 Bundle-ClassPath: .
 Bundle-Activator: com.helospark.spark.builder.Activator

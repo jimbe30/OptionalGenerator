@@ -116,9 +116,9 @@
    <extension point="org.eclipse.ui.preferencePages">
       <page
          category="org.eclipse.jdt.ui.preferences.JavaBasePreferencePage"
-         id="com.helospark.SparkBuilderPluginPreference"
+         id="com.helospark.BuilderPluginPreference"
          class="com.helospark.spark.builder.preferences.BuilderGeneratorPreferences"
-         name="Spark Builder generator">
+         name="Builder generator">
       </page>
    </extension>
 </plugin>
